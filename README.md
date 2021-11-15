@@ -1,4 +1,4 @@
-# GrimoireLab zzy2
+# GrimoireLab zzy2 testing branch
 
 [![grimoirelab-showcase](https://user-images.githubusercontent.com/25265451/84442403-30dcce80-ac5b-11ea-9f5b-60266d875ebd.png "GrimoireLab | CHAOSS Bitergia Analytics")](https://chaoss.biterg.io/app/kibana#/dashboard/Overview)
 
